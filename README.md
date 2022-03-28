@@ -6,3 +6,5 @@ These are multiple python scripts to fetch dad jokes from  icanhazdadjoke.com AP
 
 These are very simple programs to practice using APIs in python.
 You can make more detailed programs following the icanhazdadjoke.com api documentation here: https://icanhazdadjoke.com/api
+
+You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
